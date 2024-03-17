@@ -1,0 +1,54 @@
+span {color: #ff0000ad;}
+a {text-decoration: none;
+color: whitesmoke;font-size: 30px;}
+body {background-color: grey;margin-left: 0px;margin-right: 0px;}
+nav{padding: 30px;display: flex;justify-content: space-around;}
+h2 {font-family: 'Courier New', Courier, monospace;
+font-size: 35px;margin: auto;text-align: center;}
+p {font-family: monospace    , Courier, monospace;
+font-size: 40px;margin: auto;color: whitesmoke;}
+.im1{width: 300px;
+height: 250px
+;}
+.im2 {width: 300px;
+height: 250px;
+}
+.im3 {width: 300px;
+height: 250px;
+}
+section{margin: auto;display: flex;
+justify-content: space-around;margin-top: 10px;}
+article{text-align: center;
+background-color:rgb(71, 70, 70);width: 350px;}
+p:hover {font-weight: 900;color: #ff0000ad;transition: 0.5s;}
+.im4{width: 300px;height: 250px;}
+.im5{width: 300px;height: 250px;}
+.im6{width: 300px;height: 250px;}
+a {text-shadow: 2px 10px 10px ;
+font-family: 'Courier New', Courier, monospace;padding-left: 10px;
+padding-right: 10px;transition: 0.5s;}
+a:hover {color: #ff0000ad;transition: 0.5s;}
+h2:hover{color: #ff0000ad;transition: 0.5s;}
+h2{text-shadow: 2px 10px 10px;color:whitesmoke;font-weight: 100;transition: 0.5s;}
+footer {background-color: rgba(0, 0, 0, 0.466);margin-top: 150px;padding:100px ;
+padding-left: 0px ;padding-top: 0;padding-bottom: 0;}
+.viber {width: 50px;border-radius: 10px;}
+.instagram {width: 50px;border-radius: 10px;margin-left: 20px;}
+.gmail {width: 50px;height: 50px;margin-left: 20px}
+.facebook{width: 50px;height: 50px;margin-left: 20px}
+.pp2{color:whitesmoke;transition: 0.5s;}
+.pp2:hover{color: #ff0000ad;
+text-shadow: 2px 10px 10px;transition: 0.5s;}
+.pp1{color:whitesmoke;transition: 0.5s;}
+.pp1:hover{color: #ff0000ad;
+text-shadow: 2px 10px 10px;transition: 0.5s;}
+.p1:hover {color: black;
+text-shadow: 2px 10px 10px;transition: 2s;}
+.p1{transition: 2s;text-align: center;}
+a {border: solid;border-radius: 17px;}
+.p1{border: solid;border-radius: 17px;}
+footer{border: solid;border-radius: 17px;}
+a{background-color: rgba(0, 0, 0, 0.295);}
+.p1{background-color: rgba(245, 245, 245, 0.11);}
+h2{border: solid;border-radius: 20px;
+background-color: rgba(0, 0, 0, 0.295);}
